@@ -1,6 +1,6 @@
 
-class Whithin10{
-public static Boolean WhithinNum(){
+class Problem4{
+public static Boolean Whithin10(){
 
     int n = 89;
     

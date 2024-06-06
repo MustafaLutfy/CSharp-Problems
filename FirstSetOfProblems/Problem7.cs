@@ -1,6 +1,6 @@
 
-class ReplaceFirtWithLast{
-public static String ReplaceFandL(){
+class Problem7{
+public static String ReplaceFirtWithLast(){
 
     String str = "abcd";
     

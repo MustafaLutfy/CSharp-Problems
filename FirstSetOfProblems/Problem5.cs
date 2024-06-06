@@ -1,5 +1,5 @@
 
-class StartWith{
+class Problem5{
 public static String StartWithIf(){
 
     String str = "else";

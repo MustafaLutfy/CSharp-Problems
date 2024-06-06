@@ -1,5 +1,5 @@
 
-class RemoveChar{
+class Problem6{
 public static String RemoveNthChar(int n){
 
     String str = "Python";

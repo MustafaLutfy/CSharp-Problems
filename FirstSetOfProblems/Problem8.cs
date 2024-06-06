@@ -1,6 +1,6 @@
 
-class StringRepeat{
-public static String CopyStr(){
+class Problem8{
+public static String RepeatStr(){
 
     String str = "a";
 

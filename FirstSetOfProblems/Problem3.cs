@@ -1,6 +1,6 @@
 
-class CheckFor30{
-public static Boolean CheckForNum(){
+class Problem3{
+public static Boolean CheckFor30(){
 
     int x = 15;
     int y = 15;

@@ -2,15 +2,22 @@ public class App
 {
     public static void Main(string[] args)
     {
+
+//      |----------------------------------------------------------------------|
+//      |To Start Any Code Just Remove it's comment And run (dotnet run App.cs)|
+//      |----------------------------------------------------------------------|
+
+
+
         //This is the first group of problem from 1 to 25
-        // SumAndDiff.Sum();
-        // AbsoluteDifference.AbsDiff();
-        // Console.WriteLine(CheckFor30.CheckForNum());
-        // Console.WriteLine(Whithin10.WhithinNum());
-        // Console.WriteLine(StartWith.StartWithIf());
-        // Console.WriteLine(RemoveChar.RemoveNthChar(4));
-        // Console.WriteLine(ReplaceFirtWithLast.ReplaceFandL());
-        // Console.WriteLine(StringRepeat.CopyStr());
+        // Problem1.Sum();
+        // Problem2.AbsDiff();
+        // Console.WriteLine(Problem3.CheckForNum());
+        // Console.WriteLine(Problem4.WhithinNum());
+        // Console.WriteLine(Problem5.StartWithIf());
+        // Console.WriteLine(Problem6.RemoveNthChar(4));
+        // Console.WriteLine(Problem7.ReplaceFandL());
+        // Console.WriteLine(Problem8.CopyStr());
         // Console.WriteLine(Problem9.AddOneChar());
         // Console.WriteLine(Problem10.MultiplyOf());
         // Console.WriteLine(Problem11.AddThreeChars());
@@ -21,13 +28,13 @@ public class App
         // Console.WriteLine(Problem16.InRange2Values());
         // Console.WriteLine(Problem17.CheckForYt("Python"));
         // Console.WriteLine(Problem18.LargestNumber());
-        //  Console.WriteLine(Problem20.CloseTo100());
-        //  Console.WriteLine(Problem20.Compare2Numbers());
-        //  Console.WriteLine(Problem21.ReturnBiggerNum());
-        //  Console.WriteLine(Problem22.ReturnBiggerNum());
-        //  Console.WriteLine(Problem23.LastDigit());
-        //  Console.WriteLine(Problem24.Last3ToUpper());
-        //  Console.WriteLine(Problem25.NumberOfCopies());
+        // Console.WriteLine(Problem20.CloseTo100());
+        // Console.WriteLine(Problem20.Compare2Numbers());
+        // Console.WriteLine(Problem21.ReturnBiggerNum());
+        // Console.WriteLine(Problem22.ReturnBiggerNum());
+        // Console.WriteLine(Problem23.LastDigit());
+        // Console.WriteLine(Problem24.Last3ToUpper());
+        // Console.WriteLine(Problem25.NumberOfCopies());
 
 
 

@@ -1,6 +1,6 @@
 ﻿
-class SumAndDiff{
-public static void Sum(){
+class Problem1{
+public static void SumAndTriple(){
 
 int x = 3;
 int y = 2;
