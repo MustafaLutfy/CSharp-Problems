@@ -21,7 +21,10 @@ public class App
         // Console.WriteLine(Problem16.InRange2Values());
         // Console.WriteLine(Problem17.CheckForYt("Python"));
         // Console.WriteLine(Problem18.LargestNumber());
-        //  Console.WriteLine(Problem19.CloseTo100());
+        //  Console.WriteLine(Problem20.CloseTo100());
+        //  Console.WriteLine(Problem20.Compare2Numbers());
+        //  Console.WriteLine(Problem21.ReturnBiggerNum());
+        //  Console.WriteLine(Problem22.ReturnBiggerNum());
         //  Console.WriteLine(Problem23.LastDigit());
         //  Console.WriteLine(Problem24.Last3ToUpper());
         //  Console.WriteLine(Problem25.NumberOfCopies());
@@ -53,6 +56,16 @@ public class App
         // Console.WriteLine(Problem23_2.NumberOfDays());
         // Console.WriteLine(Problem24_2.MenuDrivenApproach());
          
+
+        // This is the Third group of problem from 1 to 25
+        // Problem1_3.PrintStr();
+        // Console.WriteLine(Problem2_3.LengthStr());
+        // Problem3_3.SplitStr();
+        // Problem4_3.SplitStrR();
+        // Problem5_3.CountWord();
+        // Console.WriteLine(Problem6_3.CountBothStrs());
+        // Problem7_3.CountA();
+        // Problem8_3.CopyStr();
 
     }
 }
