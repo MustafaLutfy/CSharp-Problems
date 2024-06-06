@@ -73,6 +73,9 @@ public class App
         // Console.WriteLine(Problem6_3.CountBothStrs());
         // Problem7_3.CountA();
         // Problem8_3.CopyStr();
+        // Problem9_3.MaxNumberOfChars();
+        // Problem12_3.BubbleSort();
+        Problem13_3.Substring();
 
     }
 }
