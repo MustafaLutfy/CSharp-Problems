@@ -10,6 +10,7 @@ public class App
 
 
         //This is the first group of problem from 1 to 25
+
         // Problem1.Sum();
         // Problem2.AbsDiff();
         // Console.WriteLine(Problem3.CheckForNum());
@@ -39,6 +40,7 @@ public class App
 
 
         //This is the second group of problem from 1 to 25
+
         // Console.WriteLine(Problem1_2.IsEqual());
         // Console.WriteLine(Problem2_2.OddOrEven());
         // Console.WriteLine(Problem3_2.PositiveOrNegative());
@@ -64,7 +66,12 @@ public class App
         // Console.WriteLine(Problem24_2.MenuDrivenApproach());
          
 
+
+
+
+
         // This is the Third group of problem from 1 to 25
+
         // Problem1_3.PrintStr();
         // Console.WriteLine(Problem2_3.LengthStr());
         // Problem3_3.SplitStr();
@@ -74,8 +81,9 @@ public class App
         // Problem7_3.CountA();
         // Problem8_3.CopyStr();
         // Problem9_3.MaxNumberOfChars();
+        // Problem11_3.OrederChars();
         // Problem12_3.BubbleSort();
-        Problem13_3.Substring();
+        // Problem13_3.Substring();
 
     }
 }
